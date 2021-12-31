@@ -3,7 +3,7 @@
 - 🌱 Estou aprendendo Front-end
 - 📫 Contate-me no e-mail: vanessapalmeirakelmertrajano@gmail.com
 - 📷 Instagram: https://www.instagram.com/vantrajano/
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/VanessaTrajano">
