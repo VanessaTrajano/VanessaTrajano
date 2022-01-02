@@ -1,9 +1,16 @@
 ## Olá! Eu sou a Vanessa Trajano
 
-- 🌱 Estou aprendendo Front-end
-- 📫 Contate-me no e-mail: vanessapalmeirakelmertrajano@gmail.com
-- 📷 Instagram: https://www.instagram.com/vantrajano/
-- 😄 Pronomes: ela/dela
+Sobre mim:
+  
+  - 🌱 Estou aprendendo Front-end
+  - 🏡 Sou de Santana do Deserto, MG
+  - 😊 Tenho 17 anos
+  - 👩‍🎓 Estou cursando o Ensino Médio
+  - 😄 Pronomes: ela/dela
+  - 📫 Contate-me no e-mail: vanessapalmeirakelmertrajano@gmail.com
+  - 📷 Instagram: https://www.instagram.com/vantrajano/
+
+---
 
 <div align="center">
   <a href="https://github.com/VanessaTrajano">
