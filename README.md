@@ -1,13 +1,13 @@
-## Olá! Eu sou a Vanessa Trajano
+## Olá! Meu nome é Vanessa Trajano.
 
-Sobre mim:
+Conheça um pouco sobre mim:
   
-  - 🌱 Estou aprendendo React com o @VainaWeb
   - 🏡 Sou de Santana do Deserto, Minas Gerais, Brasil
   - 😊 Tenho 17 anos
+  - 😄 Pronomes: ela/dela
+  - 🌱 Sou aluna de Front-end do @VainaWeb
   - 👩‍🎓 Estou cursando o Ensino Médio
   - 🌎 Meu nível de inglês é intermediário
-  - 😄 Pronomes: ela/dela
   - ❤ Interesses: 
     - 🎵 Ouvir músicas 
     - 📚 Ler livros
