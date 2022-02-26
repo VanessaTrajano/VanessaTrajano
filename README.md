@@ -2,7 +2,7 @@
 
 Sobre mim:
   
-  - 🌱 Estou aprendendo Front-end
+  - 🌱 Estou aprendendo React com o @VainaWeb
   - 🏡 Sou de Santana do Deserto, MG
   - 😊 Tenho 17 anos
   - 👩‍🎓 Estou cursando o Ensino Médio
