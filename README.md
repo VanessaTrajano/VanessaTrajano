@@ -3,10 +3,14 @@
 Sobre mim:
   
   - 🌱 Estou aprendendo React com o @VainaWeb
-  - 🏡 Sou de Santana do Deserto, MG
+  - 🏡 Sou de Santana do Deserto, Minas Gerais, Brasil
   - 😊 Tenho 17 anos
   - 👩‍🎓 Estou cursando o Ensino Médio
+  - 🌎 Meu nível de inglês é intermediário
   - 😄 Pronomes: ela/dela
+  - ❤ Interesses: 
+    - 🎵 Ouvir músicas 
+    - 📚 Ler livros
   - 📫 Contate-me no e-mail: vanessapalmeirakelmertrajano@gmail.com
   - 📷 Instagram: https://www.instagram.com/vantrajano/
 
@@ -14,8 +18,8 @@ Sobre mim:
 
 <div align="center">
   <a href="https://github.com/VanessaTrajano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaTrajano&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaTrajano&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VanessaTrajano&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaTrajano&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
  
