@@ -8,7 +8,6 @@ Conheça um pouco sobre mim:
   - 🌱 Sou aluna de Front-end do @VainaWeb
   - 👩‍🎓 Estou cursando o Ensino Médio
   - 🌎 Meu nível de inglês é intermediário
-  - 📜 Currículo: https://drive.google.com/file/d/1CaHQTfsQe0ym0f-2oFYJvrD6gFkAxThE/view?usp=sharing
   - ❤ Interesses: 
     - 🎵 Ouvir músicas 
     - 📚 Ler livros
