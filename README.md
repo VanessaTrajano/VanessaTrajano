@@ -3,9 +3,8 @@
 Conheça um pouco sobre mim:
   
   - 🏡 Sou de Santana do Deserto, Minas Gerais, Brasil
-  - 😊 Tenho 17 anos
+  - 😊 Tenho 18 anos
   - 😄 Pronomes: ela/dela
-  - 🌱 Sou aluna de Front-end do @VainaWeb
   - 👩‍🎓 Estou cursando o Ensino Médio
   - 🌎 Meu nível de inglês é intermediário
   - ❤ Interesses: 
