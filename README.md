@@ -5,8 +5,9 @@ Conheça um pouco sobre mim:
   - 🏡 Sou de Santana do Deserto, Minas Gerais, Brasil
   - 😊 Tenho 18 anos
   - 😄 Pronomes: ela/dela
-  - 👩‍🎓 Estou cursando o Ensino Médio
-  - 🌎 Meu nível de inglês é intermediário
+  - 👩‍🎓 Concluí o Ensino Médio no Instituto Federal de Educação, Ciências e Tecnologia do Sudeste de Minas Gerais, Campus JF
+  - 💻 Técnica em Desenvolvimento de Sistemas
+  - 🌎 Meu nível de inglês é avançado
   - ❤ Interesses: 
     - 🎵 Ouvir músicas 
     - 📚 Ler livros
