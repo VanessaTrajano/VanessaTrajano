@@ -31,7 +31,10 @@ Conheça um pouco sobre mim:
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
+
+    
   </div>
  
 ##
