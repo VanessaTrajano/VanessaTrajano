@@ -14,6 +14,7 @@ Conheça um pouco sobre mim:
     - 📚 Ler livros
   - 📫 Contate-me no e-mail: vanessapalmeirakelmertrajano@gmail.com
   - 📷 Instagram: https://www.instagram.com/vantrajano/
+  - 💼 LinkedIn: https://www.linkedin.com/in/vantrajano/
 
 ---
 
