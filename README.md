@@ -8,7 +8,7 @@ Conheça um pouco sobre mim:
   - 👩‍🎓 Concluí o Ensino Médio no Instituto Federal de Educação, Ciências e Tecnologia do Sudeste de Minas Gerais, Campus JF
   - 🎓 Cursando a graduação de Sistema de Informação na Universidade Federal de Juiz de Fora
   - 💻 Técnica em Desenvolvimento de Sistemas
-  - 🌎 Nível de inglês é avançado
+  - 🌎 Nível de inglês é intermediário
   - ❤ Interesses: 
     - 🎵 Ouvir músicas 
     - 📚 Ler livros
