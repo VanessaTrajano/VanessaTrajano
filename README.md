@@ -3,7 +3,7 @@
 Conheça um pouco sobre mim:
   
   - 🏡 Sou de Santana do Deserto, Minas Gerais, Brasil
-  - 😊 Tenho 18 anos
+  - 😊 Tenho 19 anos
   - 😄 Pronomes: ela/dela
   - 👩‍🎓 Concluí o Ensino Médio no Instituto Federal de Educação, Ciências e Tecnologia do Sudeste de Minas Gerais, Campus JF
   - 🎓 Cursando a graduação de Sistema de Informação na Universidade Federal de Juiz de Fora
