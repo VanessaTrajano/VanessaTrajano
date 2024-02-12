@@ -1,13 +1,13 @@
 # Olá! Meu nome é Vanessa Trajano!
 
 ### Conheça um pouco sobre mim:
-  
-  - 😊 Tenho 19 anos
-  - 😄 Pronomes: ela/dela
-  - 👩‍🎓 Concluí o Ensino Médio e Técnico no Instituto Federal de Educação, Ciências e Tecnologia do Sudeste de Minas Gerais, Campus JF
+
   - 💻 Técnica em Desenvolvimento de Sistemas
   - 🎓 Cursando Sistema de Informação na Universidade Federal de Juiz de Fora
+  - 👩‍🎓 Concluí o Ensino Médio e Técnico no IF Sudeste MG -  Campus Juiz de Fora
   - 🌎 Inglês intermediário
+  - 😊 Tenho 19 anos
+  - 😄 Pronomes: ela/dela
   - ❤ Interesses: 
     - 🎵 Ouvir música
     - 📚 Ler livros
