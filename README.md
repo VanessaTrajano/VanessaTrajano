@@ -2,8 +2,7 @@
 
 ### Conheça um pouco sobre mim:
 
-  - 💻 Técnica em Desenvolvimento de Sistemas
-  - 🖥️ Desenvolvedora Front-End Júnior do PagBank por meio da Empresa Vai na Web
+  - 💻 Desenvolvedora Front-End Júnior do PagBank por meio da Empresa Vai na Web
   - 🎓 Cursando Sistema de Informação na Universidade Federal de Juiz de Fora
   - 👩‍🎓 Concluí o Ensino Médio e Técnico no IF Sudeste MG -  Campus Juiz de Fora
   - 🌎 Inglês intermediário
