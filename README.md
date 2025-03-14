@@ -3,11 +3,11 @@
 ### Conheça um pouco sobre mim:
 
   - 💻 Técnica em Desenvolvimento de Sistemas
+  - 🖥️ Desenvolvedora Front-End Júnior do PagBank por meio da Empresa Vai na Web
   - 🎓 Cursando Sistema de Informação na Universidade Federal de Juiz de Fora
   - 👩‍🎓 Concluí o Ensino Médio e Técnico no IF Sudeste MG -  Campus Juiz de Fora
   - 🌎 Inglês intermediário
-  - 😊 Tenho 19 anos
-  - 😄 Pronomes: ela/dela
+  - 😊 Tenho 20 anos
   - ❤ Interesses: 
     - 🎵 Ouvir música
     - 📚 Ler livros
@@ -17,7 +17,7 @@
   - 📷 Instagram: https://www.instagram.com/vantrajano/
   - 💼 LinkedIn: https://www.linkedin.com/in/vantrajano/
 
-### Tecnologias dominadas:
+### Tecnologias conhecidas:
   <div style="display: flex"> 
     <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
