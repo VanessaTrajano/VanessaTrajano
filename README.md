@@ -6,7 +6,7 @@
   - 🎓 Cursando Sistema de Informação na Universidade Federal de Juiz de Fora
   - 👩‍🎓 Concluí o Ensino Médio e Técnico no IF Sudeste MG -  Campus Juiz de Fora
   - 🌎 Inglês intermediário
-  - 😊 Tenho 20 anos
+  - 😊 Tenho 21 anos
   - ❤ Interesses: 
     - 🎵 Ouvir música
     - 📚 Ler livros
