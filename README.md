@@ -2,18 +2,13 @@
 
 ### Conheça um pouco sobre mim:
 
-  - 💻 Desenvolvedora Front-End Júnior do PagBank por meio da Empresa Vai na Web
+  - 💻 Desenvolvedora Front-End Júnior
   - 🎓 Cursando Sistema de Informação na Universidade Federal de Juiz de Fora
   - 👩‍🎓 Concluí o Ensino Médio e Técnico no IF Sudeste MG -  Campus Juiz de Fora
-  - 🌎 Inglês intermediário
-  - 😊 Tenho 21 anos
-  - ❤ Interesses: 
-    - 🎵 Ouvir música
-    - 📚 Ler livros
+  - 🌎 Inglês avançado
 
 ### Contatos:
   - 📫 Contate-me no e-mail: vanessapalmeirakelmertrajano@gmail.com
-  - 📷 Instagram: https://www.instagram.com/vantrajano/
   - 💼 LinkedIn: https://www.linkedin.com/in/vantrajano/
 
 ### Tecnologias conhecidas:
